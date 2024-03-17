@@ -1,5 +1,3 @@
-<a href="https://github.com/matheuscosta1/README.md">matheuscosta1/README.md</a>
-
 # Seja bem vindo 👋
 
 <p align="center"><img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/00.gif" style="height: 120px;"></p>
