@@ -1,11 +1,2 @@
 # Seja bem vindo 👋
-<ul>
-<li>💻 Atualmente desenvolvendo customizações para o ambiente ERP Protheus - TOTVS.</li>
-<br>
-<li>📖 Estudando React Native e PO-UI (Portinari - biblioteca de componentes baseado em Angular).✨ 🔭.</li>
-<br>
-<li>:octocat: Compartilhando novos projetos\customizações ADVPL.</li>
-<br>
-<li>🚴‍♂️ Tempo livre: 🚴‍♂️.</li>  
-</ul>
-
+<h1 align="center">Olá, eu sou o Matheus 👋</h1> <p align="center"> <b>Desenvolvedor Full Stack</b> especializado no ecossistema <b>TOTVS (Protheus e RM)</b>.<br> Conecto o ERP ao mundo web com integrações, APIs e interfaces modernas. </p> <p align="center"> <a href="https://www.linkedin.com/in/matheus-costa-6732201b2/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:mcostadevsolutions@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> </p>
